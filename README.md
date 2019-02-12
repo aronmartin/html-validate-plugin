@@ -3,7 +3,7 @@
     <img width="200" height="200"
       src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
-  <h1>Html validate plugin</h1>
+  <h1>Html Validate Plugin</h1>
   <p>Validates the html files based on the Nu validator https://github.com/zrrrzzt/html-validator</p>
 </div>
 
